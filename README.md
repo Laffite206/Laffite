@@ -14,3 +14,4 @@ git init
 git add . 
 git commit -m "First commit"
 git remote add origin https://github.com/Laffite206/git remote add origin
+git push origin master
